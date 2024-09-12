@@ -1,0 +1,15 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/content/darknet/data/test/crop_21.jpg", 
+ "objects": [ 
+  {"class_id":6, "name":"description", "relative_coordinates":{"center_x":0.485357, "center_y":0.446229, "width":0.131201, "height":0.068256}, "confidence":0.935692}, 
+  {"class_id":5, "name":"bids", "relative_coordinates":{"center_x":0.460881, "center_y":0.695187, "width":0.083543, "height":0.052366}, "confidence":0.995816}, 
+  {"class_id":4, "name":"shipping", "relative_coordinates":{"center_x":0.514212, "center_y":0.781012, "width":0.188690, "height":0.070846}, "confidence":0.987324}, 
+  {"class_id":3, "name":"price", "relative_coordinates":{"center_x":0.518923, "center_y":0.604120, "width":0.204654, "height":0.117977}, "confidence":0.982800}, 
+  {"class_id":2, "name":"title", "relative_coordinates":{"center_x":0.658195, "center_y":0.210508, "width":0.480809, "height":0.191160}, "confidence":0.986336}, 
+  {"class_id":1, "name":"date", "relative_coordinates":{"center_x":0.505745, "center_y":0.069788, "width":0.166291, "height":0.052568}, "confidence":0.999270}, 
+  {"class_id":0, "name":"img", "relative_coordinates":{"center_x":0.252832, "center_y":0.334274, "width":0.309613, "height":0.985279}, "confidence":0.303970}
+ ] 
+}
+]

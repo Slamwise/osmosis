@@ -1,0 +1,36 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/content/darknet/data/test/crop_00.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.625942, "center_y":0.389747, "width":0.743324, "height":0.034598}, "confidence":0.991291}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.624999, "center_y":0.318690, "width":0.764871, "height":0.035000}, "confidence":0.991204}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.623698, "center_y":0.797074, "width":0.730600, "height":0.033313}, "confidence":0.990693}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.625810, "center_y":0.867023, "width":0.751980, "height":0.033113}, "confidence":0.989892}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.625154, "center_y":0.424388, "width":0.741635, "height":0.034997}, "confidence":0.988856}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.622389, "center_y":0.763886, "width":0.738909, "height":0.033248}, "confidence":0.988805}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.624322, "center_y":0.354209, "width":0.747097, "height":0.035753}, "confidence":0.988538}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.625915, "center_y":0.252285, "width":0.750764, "height":0.031763}, "confidence":0.988309}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.624611, "center_y":0.936932, "width":0.746533, "height":0.032154}, "confidence":0.988145}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.623482, "center_y":0.729902, "width":0.751275, "height":0.035166}, "confidence":0.987313}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.624580, "center_y":0.284875, "width":0.737527, "height":0.033853}, "confidence":0.986966}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.622216, "center_y":0.491960, "width":0.785387, "height":0.031153}, "confidence":0.986126}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.618534, "center_y":0.831889, "width":0.699062, "height":0.037063}, "confidence":0.986109}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.623853, "center_y":0.459341, "width":0.771749, "height":0.034497}, "confidence":0.985897}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.625934, "center_y":0.186075, "width":0.768053, "height":0.034585}, "confidence":0.985141}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.625145, "center_y":0.901707, "width":0.747307, "height":0.037229}, "confidence":0.985091}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.625743, "center_y":0.561328, "width":0.768393, "height":0.033020}, "confidence":0.984803}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.625604, "center_y":0.219608, "width":0.766773, "height":0.033043}, "confidence":0.984240}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.618446, "center_y":0.661497, "width":0.729987, "height":0.034105}, "confidence":0.984235}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.616580, "center_y":0.694956, "width":0.704935, "height":0.035749}, "confidence":0.983942}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.622755, "center_y":0.971050, "width":0.736519, "height":0.036028}, "confidence":0.983196}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.625401, "center_y":0.595339, "width":0.782390, "height":0.034852}, "confidence":0.982980}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.624299, "center_y":0.628962, "width":0.777111, "height":0.032922}, "confidence":0.981831}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.624758, "center_y":0.526566, "width":0.764703, "height":0.037413}, "confidence":0.981777}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.617659, "center_y":0.150463, "width":0.712124, "height":0.037116}, "confidence":0.980696}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.625102, "center_y":0.116174, "width":0.742015, "height":0.031766}, "confidence":0.978825}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.624776, "center_y":0.084079, "width":0.756788, "height":0.032609}, "confidence":0.973192}, 
+  {"class_id":0, "name":"sale", "relative_coordinates":{"center_x":0.624040, "center_y":0.994433, "width":0.724258, "height":0.012043}, "confidence":0.907684}
+ ] 
+}
+]

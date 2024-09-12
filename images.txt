@@ -1,0 +1,4 @@
+/content/darknet/data/test/crop_03.jpg
+/content/darknet/data/test/crop_02.jpg
+/content/darknet/data/test/crop_01.jpg
+/content/darknet/data/test/crop_00.jpg
